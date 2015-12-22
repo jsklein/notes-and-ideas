@@ -1,0 +1,15 @@
+---
+
+general
+  hostname
+  description
+
+prefixes[]
+  name
+    prefix[]
+      address
+      prefix_length
+
+interface[]
+  name
+  addresses
