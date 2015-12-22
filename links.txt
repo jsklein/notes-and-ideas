@@ -6,3 +6,6 @@ http://davidcrumpton.blogspot.de/2014/04/ipv6-only-network-with-dns64-nat64-and.
 
 short explanation/example of af-to
 http://home.nuug.no/~peter/pf/bsdcan2012/nat64.html
+
+Ecdysis is aimed to develop an open-source implementation of a NAT64 gateway to run on open-source operating systems such as Linux and BSD.
+http://ecdysis.viagenie.ca/index.html
