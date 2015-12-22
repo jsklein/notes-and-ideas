@@ -6,10 +6,11 @@ general
 
 prefixes[]
   name
+  description
     prefix[]
       address
       prefix_length
 
 interface[]
   name
-  addresses
+  addresses: <prefix_bla>

@@ -1,0 +1,8 @@
+OpenBSD, packages and ports
+http://bsdly.blogspot.de/2013/04/youve-installed-it-now-what-packages.html
+
+setup similar to our PoC
+http://davidcrumpton.blogspot.de/2014/04/ipv6-only-network-with-dns64-nat64-and.html
+
+short explanation/example of af-to
+http://home.nuug.no/~peter/pf/bsdcan2012/nat64.html
