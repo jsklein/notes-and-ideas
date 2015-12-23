@@ -1,0 +1,14 @@
+
+
+## from openbsd guy, dec 2015 (german)
+
+statt bootable image, eine "site" bauen tar file mit
+code+configs, und man sollte das als package in ports ein
+bringen, dann vllt ein two stage pkg_add installieren
+aber nichts überschrieben, dann z.B. ein script das die
+ alten daten verscheibet und dann erst /etc usw.
+umschreibt, kein top level /sixfw besser unter /var/...
+und (da bin ich mir nicht mehr sicher) "/usr/bin/.." für
+binaries oder so, angeblich steht
+viel dazu in den FAQs. keine "sites" entfernen vieles hat
+dependencies.

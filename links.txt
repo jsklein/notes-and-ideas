@@ -9,3 +9,10 @@ http://home.nuug.no/~peter/pf/bsdcan2012/nat64.html
 
 Ecdysis is aimed to develop an open-source implementation of a NAT64 gateway to run on open-source operating systems such as Linux and BSD.
 http://ecdysis.viagenie.ca/index.html
+
+BSD Now is a weekly video podcast created by three guys who love BSD. 
+http://www.bsdnow.tv
+
+## Interesting Projects
+* nixOS (functional linux distribution) http://nixos.org
+* linux, light, +grsec http://www.alpinelinux.org/about/
