@@ -24,3 +24,18 @@ https://www.youtube.com/watch?v=TjP86iWsEzQ
 ## Interesting Projects
 * nixOS (functional linux distribution) http://nixos.org
 * linux, light, +grsec http://www.alpinelinux.org/about/
+
+
+
+# IETF RFC's
+
+# Recommendations for Enterprise Firewalls
+https://tools.ietf.org/html/draft-gont-opsec-ipv6-firewall-reqs-02
+
+# Recommendations for Filtering ICMPv6 Messages in Firewalls
+https://www.ietf.org/rfc/rfc4890.txt
+
+# An Acceptable Use Policy for New ICMP Types and Codes
+https://tools.ietf.org/html/rfc7279
+
+
